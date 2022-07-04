@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656921050 source:c:\users\m\onedrive\documents\data structure\filling\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+	<cmath>
+	<vector>
+
